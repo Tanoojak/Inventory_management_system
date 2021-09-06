@@ -1,0 +1,35 @@
+User name: tanooja   Phone number: 9345682559   time:2021-09-03 18:35:03.787151
+{"productid": 0, "typeofproduct": "chocolate", "company": "Mars", "price": 20, "quantity": 2}
+{"productid": 1, "typeofproduct": "chocolate", "company": "cadbury", "price": 20, "quantity": 2}
+{"productid": 2, "typeofproduct": "chocolate", "company": "nestle", "price": 20, "quantity": 2}
+{"productid": 3, "typeofproduct": "detergent", "company": "P&G", "price": 10, "quantity": 1}
+{"productid": 4, "typeofproduct": "detergent", "company": "Hindustan Unilever Limited", "price": 5, "quantity": 1}
+Total bill: 75
+
+User name: tejasri   Phone number: 9652287454   time:2021-09-03 18:38:05.209610
+{"productid": 0, "typeofproduct": "biscuits", "company": "McVitie's", "price": 50, "quantity": 5}
+{"productid": 1, "typeofproduct": "biscuits", "company": "britania", "price": 100, "quantity": 2}
+{"productid": 2, "typeofproduct": "detergent", "company": "P&G", "price": 10, "quantity": 1}
+Total bill: 160
+
+User name: sunila   Phone number: 9854726558   time:2021-09-03 18:40:35.231627
+{"productid": 0, "typeofproduct": "biscuits", "company": "McVitie's", "price": 40, "quantity": 4}
+{"productid": 1, "typeofproduct": "packed food", "company": "Haldirams", "price": 30, "quantity": 2}
+{"productid": 2, "typeofproduct": "biscuits", "company": "parle", "price": 30, "quantity": 3}
+Total bill: 100
+
+User name: hari   Phone number: 985745625   time:2021-09-03 18:42:58.183161
+{"productid": 0, "typeofproduct": "chocolate", "company": "cadbury", "price": 10, "quantity": 1}
+Total bill: 10
+
+User name: siri   Phone number: 9855202136   time:2021-09-03 18:44:02.059921
+{"productid": 0, "typeofproduct": "chocolate", "company": "cadbury", "price": 10, "quantity": 1}
+{"productid": 1, "typeofproduct": "chocolate", "company": "nestle", "price": 20, "quantity": 2}
+{"productid": 2, "typeofproduct": "biscuits", "company": "McVitie's", "price": 30, "quantity": 3}
+{"productid": 3, "typeofproduct": "biscuits", "company": "britania", "price": 10, "quantity": 1}
+Total bill: 70
+
+User name: tanuja   Phone number: 8569423659   time:2021-09-06 10:05:23.217013
+{"productid": 0, "typeofproduct": "detergent", "company": "P&G", "price": 10, "quantity": 1}
+Total bill: 10
+
